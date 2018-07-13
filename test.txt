@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 ccccccccc
 ggggggggg
+=======
+cccccccccc
+gggggggggg
+dddddddddd
+>>>>>>> feature1
